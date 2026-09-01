@@ -98,8 +98,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ravanlinktechnology-bot&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=E0E0E0&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ravanlinktechnology-bot&theme=tokyonight&hide_border=true&stroke=00F0FF&ring=00F0FF&fire=FF0055&currStreakNum=00F0FF&sideNums=E0E0E0&sideLabels=A0A0A0&dates=708090&background=0D1117" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ravanlinktechnology&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=E0E0E0&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ravanlinktechnology&theme=tokyonight&hide_border=true&stroke=00F0FF&ring=00F0FF&fire=FF0055&currStreakNum=00F0FF&sideNums=E0E0E0&sideLabels=A0A0A0&dates=708090&background=0D1117" alt="GitHub Streak" width="48%" />
 
 </div>
 
